@@ -1,6 +1,7 @@
 
 {
   "name": "Marie-2.0 English",
+  "stack": "heroku-18",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
